@@ -4,9 +4,8 @@
 
 There are several ways of editing your application.
 
-**Use OnSpace**
 
-Simply visit the [OnSpace Project]() and start prompting.
+start prompting.
 
 Changes made via OnSpace will be committed automatically to this repo.
 
@@ -58,4 +57,4 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [OnSpace]() and click on Share -> Publish.
+Simply open projectand edit
